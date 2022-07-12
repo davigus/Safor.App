@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Safor.App", "Safor.App\Safor.App.csproj", "{8723C8BF-BD05-4BFF-AE13-7F12F403D7AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Safor.Services", "Safor.Services\Safor.Services.csproj", "{395260A2-0BB0-4615-BB25-93CC28CECD2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8723C8BF-BD05-4BFF-AE13-7F12F403D7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8723C8BF-BD05-4BFF-AE13-7F12F403D7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8723C8BF-BD05-4BFF-AE13-7F12F403D7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8723C8BF-BD05-4BFF-AE13-7F12F403D7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395260A2-0BB0-4615-BB25-93CC28CECD2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395260A2-0BB0-4615-BB25-93CC28CECD2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395260A2-0BB0-4615-BB25-93CC28CECD2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395260A2-0BB0-4615-BB25-93CC28CECD2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAE66885-198D-4578-A3D8-5B0DFDB35248}
+	EndGlobalSection
+EndGlobal

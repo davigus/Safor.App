@@ -1,0 +1,12 @@
+C:\Users\d.gussoni\Desktop\Davide\PersonalWorkspace\Safor.App\Safor.Services\bin\Debug\net5.0\Safor.Services.deps.json
+C:\Users\d.gussoni\Desktop\Davide\PersonalWorkspace\Safor.App\Safor.Services\bin\Debug\net5.0\Safor.Services.dll
+C:\Users\d.gussoni\Desktop\Davide\PersonalWorkspace\Safor.App\Safor.Services\bin\Debug\net5.0\Safor.Services.pdb
+C:\Users\d.gussoni\Desktop\Davide\PersonalWorkspace\Safor.App\Safor.Services\obj\Debug\net5.0\Safor.Services.csproj.AssemblyReference.cache
+C:\Users\d.gussoni\Desktop\Davide\PersonalWorkspace\Safor.App\Safor.Services\obj\Debug\net5.0\Safor.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.gussoni\Desktop\Davide\PersonalWorkspace\Safor.App\Safor.Services\obj\Debug\net5.0\Safor.Services.AssemblyInfoInputs.cache
+C:\Users\d.gussoni\Desktop\Davide\PersonalWorkspace\Safor.App\Safor.Services\obj\Debug\net5.0\Safor.Services.AssemblyInfo.cs
+C:\Users\d.gussoni\Desktop\Davide\PersonalWorkspace\Safor.App\Safor.Services\obj\Debug\net5.0\Safor.Services.csproj.CoreCompileInputs.cache
+C:\Users\d.gussoni\Desktop\Davide\PersonalWorkspace\Safor.App\Safor.Services\obj\Debug\net5.0\Safor.Services.dll
+C:\Users\d.gussoni\Desktop\Davide\PersonalWorkspace\Safor.App\Safor.Services\obj\Debug\net5.0\refint\Safor.Services.dll
+C:\Users\d.gussoni\Desktop\Davide\PersonalWorkspace\Safor.App\Safor.Services\obj\Debug\net5.0\Safor.Services.pdb
+C:\Users\d.gussoni\Desktop\Davide\PersonalWorkspace\Safor.App\Safor.Services\obj\Debug\net5.0\ref\Safor.Services.dll

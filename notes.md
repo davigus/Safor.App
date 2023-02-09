@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Server=.\;Database=Safor;User Id=sa;Password=peterPan86!;Trusted_Connection=False;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -o Model
